@@ -1,0 +1,16 @@
+# Current requirements for our project
+pandas
+numpy
+matplotlib
+seaborn
+requests
+
+# PostgreSQL Connectors
+psycopg2-binary
+SQLAlchemy
+
+# ML
+scikit-learn
+
+# Securely reading API keys Locally
+python-dotenv
